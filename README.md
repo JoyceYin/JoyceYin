@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<h2>About Me</h2>
+- 🔭 I’m currently interning at the United Nations as a Data Scientist
+<br>
+- 🌱 I’m currently learning urban data science/software engineering
 <!--
 **JoyceYin/JoyceYin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
