@@ -4,11 +4,12 @@
 - 🔭 I’m currently interning at the United Nations as a Data Scientist
 <br>
 - 🌱 I’m currently learning urban data science/software engineering
-<!--
-**JoyceYin/JoyceYin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
+<hr>
+<h4> Check out my personal website 📸: </h4>
+<a href="https://joyceyin.github.io/">My webpage</a>
+                                        
+<!-- 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -16,5 +17,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
