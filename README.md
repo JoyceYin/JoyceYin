@@ -3,7 +3,9 @@
 <h2>About Me</h2>
 - 🔭 I’m currently interning at the United Nations as a Data Scientist
 <br>
-- 🌱 I’m currently learning urban data science/software engineering
+- 🌱 I’m currently learning urban data science
+<br>
+- 🚘 Focusing on Electric Vehicles
 
 <hr>
 <h4> Check out my personal website 📸: </h4>
