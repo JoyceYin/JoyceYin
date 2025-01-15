@@ -5,7 +5,7 @@
 <br>
 - 🌱 I’m an urban data enthusiast
 <br>
-- 🚘 Focusing on Electric Vehicles
+- 🚘 Focusing on Electric Vehicles, Urban Resilience
 
 <hr>
 <h4> Check out my personal website 📸: </h4>
