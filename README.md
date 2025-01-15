@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 <h2>About Me</h2>
-- 🔭 I’m currently interning at the United Nations as a Data Scientist
+- 🔭 Research Assistant @PolyU, HK
 <br>
-- 🌱 I’m currently learning urban data science
+- 🌱 I’m an urban data enthusiast
 <br>
 - 🚘 Focusing on Electric Vehicles
 
